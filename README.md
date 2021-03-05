@@ -40,6 +40,7 @@
 
 ### Books
 
+* Jeff Erickson - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * Steven Skiena – [The Algorithm Design Manual](http://www.algorist.com/)
 * Udi Manber – [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)
 * Cormen, Leiserson, Rivest, Stein – [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
@@ -71,6 +72,7 @@
 * [CodeSignal](https://codesignal.com)
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
+* [CoderPad](https://coderpad.io/)
 
 ### Guides
 
@@ -86,6 +88,7 @@
 * [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
 * [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+* [Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
 ## Guides
 
@@ -99,7 +102,7 @@
 * David Byttow – [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * Thomas L. Friedman – How to Get a Job at Google [[part 1](http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html)] [[part 2](http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html)]
 * Andrew Rothbart – [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
-* Mina Azib – [Resources for Preparing for the Google Interview](http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
+* Mina Azib – [Resources for Preparing for the Google Interview](https://web.archive.org/web/20170716041319/http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
 * [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 * Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 * Ammon Bartram – [How To Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
@@ -215,6 +218,7 @@
 * [Superhero.js](http://superherojs.com/)
 * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions/)
+* [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 
 ### Node
 
@@ -224,6 +228,7 @@
 ### PHP
 
 * [PHP The Right Way](http://www.phptherightway.com)
+* [PHP Best Practices](https://phpbestpractices.org/)
 
 ### Python
 
@@ -231,6 +236,7 @@
 * [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
 * Book: [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
+* [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
 
 
 ### React
